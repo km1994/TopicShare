@@ -16,20 +16,23 @@
   - [八、paperShape 构思](#八papershape-构思)
   - [九、paperShape 必须分享内容](#九papershape-必须分享内容)
   - [十、paperShape 分享论文管理](#十papershape-分享论文管理)
-    - [Topic 6](#topic-6)
+    - [Topic 7](#topic-7)
       - [>> 自然语言处理](#-自然语言处理)
-      - [>> 图像处理](#-图像处理)
       - [>> 推荐系统](#-推荐系统)
-    - [Topic 5](#topic-5)
+    - [Topic 6](#topic-6)
       - [>> 自然语言处理](#-自然语言处理-1)
-      - [>> 图像处理](#-图像处理-1)
+      - [>> 图像处理](#-图像处理)
       - [>> 推荐系统](#-推荐系统-1)
-    - [Topic 4](#topic-4)
+    - [Topic 5](#topic-5)
       - [>> 自然语言处理](#-自然语言处理-2)
-      - [>> 图像处理](#-图像处理-2)
+      - [>> 图像处理](#-图像处理-1)
       - [>> 推荐系统](#-推荐系统-2)
-    - [Topic 3](#topic-3)
+    - [Topic 4](#topic-4)
       - [>> 自然语言处理](#-自然语言处理-3)
+      - [>> 图像处理](#-图像处理-2)
+      - [>> 推荐系统](#-推荐系统-3)
+    - [Topic 3](#topic-3)
+      - [>> 自然语言处理](#-自然语言处理-4)
       - [>> 图像处理](#-图像处理-3)
     - [Topic 2](#topic-2)
       - [>> 自然语言处理 之 基于细粒度情感分析](#-自然语言处理-之-基于细粒度情感分析)
@@ -37,7 +40,7 @@
       - [>> 自然语言处理 之 文本匹配](#-自然语言处理-之-文本匹配)
       - [>> 图像处理 之 人脸识别](#-图像处理-之-人脸识别)
     - [初期](#初期)
-      - [>> 自然语言处理](#-自然语言处理-4)
+      - [>> 自然语言处理](#-自然语言处理-5)
       - [>> 图像处理](#-图像处理-4)
   - [待续。。。](#待续)
 
@@ -94,6 +97,18 @@ paperShape 想做的事：
 5. 个人观点；
 
 ## 十、paperShape 分享论文管理
+
+### Topic 7
+
+#### >> 自然语言处理
+
+1. [Named Entity Recognition as Dependency Parsing](https://github.com/km1994/paperShapeShare/tree/master/Topic7/nlp/biaffier/biaffier.pdf)【杨夕】【[论文](https://github.com/km1994/paperShapeShare/tree/master/Topic7/nlp/biaffier/2020.acl-main.577.pdf)】
+2. [SimCSE](https://github.com/km1994/paperShapeShare/tree/master/Topic7/nlp/biaffier/SimCSE.pdf)【Lver】【[论文](https://github.com/km1994/paperShapeShare/tree/master/Topic7/nlp/biaffier/2104.08821.pdf)】
+3. [盘点近年来的命名实体识别](https://zhuanlan.zhihu.com/p/375805722)【Ycy】
+
+#### >> 推荐系统
+
+
 
 ### Topic 6
 
