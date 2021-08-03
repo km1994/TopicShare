@@ -24,12 +24,14 @@ TopicShape 想做的事：
 
 ## 三、TopicShare 的学习模式及口号
 
+- 分享方式：腾讯会议
 - 学习模式：
 
 1. 发起人 先 确定好 [Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC) 和 预分享的时间；
 2. TopicShare组织者 会提前两周 做一次宣传，帮 发起人 找 参与者，然后建群；
 3. 发起人 和 参与者 可以一起分工，对该 Topic 进行调研和设计；
-4. 发起人 觉得 准备 OK 之后，由 TopicShare组织者 帮忙定一个时间 组织群内分享；
+4. 发起人 觉得 准备 OK 之后，由 TopicShare组织者 帮忙定一个时间 在学习群内分享 腾讯会议 会议 ID；
+5. Topic 分享开始时，TopicShare组织者 会 组织 发起人 分享，并在 学习群内，通知学员参与旁听；
 
 - 学习口号：以区块链模式推广学习
 
