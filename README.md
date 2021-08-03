@@ -2,49 +2,6 @@
 
 > 组织成员：杨夕、Naomi、净信、糖醋鱼、HK、along等小伙伴们</br>
 
-## 目录
-
-- [TopicShape 介绍](#topicshape-介绍)
-  - [目录](#目录)
-  - [一、动机](#一动机)
-  - [二、 TopicShape 存在价值](#二-topicshape-存在价值)
-  - [三、TopicShare 的学习模式及口号](#三topicshare-的学习模式及口号)
-  - [三、 TopicShape 分享时间](#三-topicshape-分享时间)
-  - [四、 TopicShape 分享顺序](#四-topicshape-分享顺序)
-  - [五、TopicShape 管理机制](#五topicshape-管理机制)
-  - [六、TopicShape 流入机制](#六topicshape-流入机制)
-  - [七、TopicShape 构思](#七topicshape-构思)
-  - [八、TopicShape 必须分享内容](#八topicshape-必须分享内容)
-  - [九、TopicShape 分享 Topic 管理](#九topicshape-分享-topic-管理)
-    - [Topic 7](#topic-7)
-      - [Topic 7 >> 自然语言处理](#topic-7--自然语言处理)
-      - [Topic 7 >> 推荐系统](#topic-7--推荐系统)
-    - [Topic 6](#topic-6)
-      - [Topic 6 >> 自然语言处理](#topic-6--自然语言处理)
-      - [Topic 6 >> 图像处理](#topic-6--图像处理)
-      - [Topic 6 >> 推荐系统](#topic-6--推荐系统)
-    - [Topic 5](#topic-5)
-      - [Topic 5 >> 自然语言处理](#topic-5--自然语言处理)
-      - [Topic 5 >> 图像处理](#topic-5--图像处理)
-      - [Topic 5 >> 推荐系统](#topic-5--推荐系统)
-    - [Topic 4](#topic-4)
-      - [Topic 4 >> 自然语言处理](#topic-4--自然语言处理)
-      - [Topic 4 >> 图像处理](#topic-4--图像处理)
-      - [Topic 4 >> 推荐系统](#topic-4--推荐系统)
-    - [Topic 3](#topic-3)
-      - [Topic 3 >> 自然语言处理](#topic-3--自然语言处理)
-      - [Topic 3 >> 图像处理](#topic-3--图像处理)
-    - [Topic 2](#topic-2)
-      - [Topic 2 >> 自然语言处理 之 基于细粒度情感分析](#topic-2--自然语言处理-之-基于细粒度情感分析)
-    - [Topic 1](#topic-1)
-      - [Topic 1 >> 自然语言处理 之 文本匹配](#topic-1--自然语言处理-之-文本匹配)
-      - [Topic 1 >> 图像处理 之 人脸识别](#topic-1--图像处理-之-人脸识别)
-    - [初期](#初期)
-      - [初期 >> 自然语言处理](#初期--自然语言处理)
-      - [初期 >> 图像处理](#初期--图像处理)
-  - [待续。。。](#待续)
-  - [参考](#参考)
-
 ## 一、动机
 
 1. 你是否也再一个人干巴巴的学习么?
