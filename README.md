@@ -19,15 +19,20 @@
 
 TopicShare 想做的事：
 1. 选取比较成熟的 Topic 和 做一些 开源方案 分享；
-2. 给 TopicShare 成员一个一起学习一起讨论的空间，以帮助组织成员更好“高效+全面”学习；
+2. 给 TopicShare 成员一个一起学习一起讨论的空间，以帮助组织成员更好**“高效+全面”**学习；
 3. 认识更多更优秀的小伙伴！
 
 ## 三、TopicShare 的学习模式及口号
 
-- 分享方式：腾讯会议
-- 学习模式：
+- **活动通知公众号**
 
-1. 发起人 先 确定好 [Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC) 和 预分享的时间；
+![](img/f6e60b62aa532b11b533789cdcc4bec.png)
+
+- **分享方式：腾讯会议**
+- **Topic 分享：每周六 晚上 20:30**
+- **学习模式**
+
+1. 发起人 先 确定好 **[Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC) **和 预分享的时间；
 2. TopicShare组织者 会提前两周 做一次宣传，帮 发起人 找 参与者，然后建群；
 3. 发起人 和 参与者 可以一起分工，对该 Topic 进行调研和设计；
 4. 发起人 觉得 准备 OK 之后，由 TopicShare组织者 帮忙定一个时间 在学习群内分享 腾讯会议 会议 ID；
@@ -37,9 +42,41 @@ TopicShare 想做的事：
 
 ![](img/微信图片_20210803095627.jpg)
 
-## 三、 TopicShare 分享时间
+- **目前已沉淀的 开源方案**
 
-- Topic 分享：每周六 晚上 九点半
+1. [nlp_paper_study](https://github.com/km1994/nlp_paper_study) 
+
+该项目主要是本人在研读顶会论文和复现经典论文过程中，所见、所思、所想、所闻。
+
+2. [NLP 百面百搭](https://github.com/km1994/NLP-Interview-Notes) 
+
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+
+3. [知识图谱构建 DeepKg](https://github.com/powerycy/DeepKg) 
+
+本项目致力于知识图谱的构建，目前正一点一点搭建其方法，也希望能帮助更多的人，
+
+4. [RS_paper_study](https://github.com/km1994/RS_paper_study) 
+
+该项目主要是本人在研读顶会论文和复现经典论文过程中，所见、所思、所想、所闻。
+
+5. [NLP 项目 的 tensorflow 实现](https://github.com/km1994/bert_to_nlp_tf) 
+
+该项目主要 使用 tensorflow 框架 复现 NLP 基础任务上的应用。
+
+## 三、如何旁听 Topic 分享？如何加入我们？
+
+- **如何旁听 Topic 分享？**
+
+我会建立一个 TopicShare 旁听群，然后 每一个 想听分享的成员会先加入该群，然后 每周末我们会在 该群里面 发 Topic 飞书分享链接。
+
+> TopicShare 旁听群
+![](img/03e988eba74101d8fa93e9e8f036562.png)
+
+- **如何加入我们？**
+
+在 ** [Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC) ** 上面 填写 想分享的 Topic，然后 添加 TopicShare 组织者 微信号 blqkm601，注明参与分享即可。
+
 
 ## 四、 TopicShare 分享顺序
 
@@ -53,12 +90,7 @@ TopicShare 想做的事：
 2. 负责 TopicShare 学习群 的 通知 和 管理；
 3. 负责 TopicShare 学习群 的优化工作；
 
-## 六、TopicShare 流入机制
 
-我会建立一个 TopicShare 旁听群，然后 每一个 想听分享的成员会先加入该群，然后 每周末我们会在 该群里面 发 Topic 飞书分享链接。
-
-> TopicShare 旁听群
-![](img/微信图片_20210803100421.png)
 
 
 ## 七、TopicShare 构思
