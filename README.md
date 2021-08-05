@@ -1,6 +1,8 @@
-# TopicShare 介绍
+# TopicShare 开源学习论坛
 
 > 组织成员：杨夕、Naomi、净信、糖醋鱼、HK、along等小伙伴们</br>
+> [Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC)</br>
+> **学习口号：以区块链模式推广学习**</br>
 
 ## 一、动机
 
@@ -24,13 +26,16 @@ TopicShare 想做的事：
 
 ## 三、TopicShare 的学习模式及口号
 
+### 3.1 TopicShare 基本信息
+
 - **活动通知公众号**
 
 ![](img/f6e60b62aa532b11b533789cdcc4bec.png)
 
 - **分享方式：腾讯会议**
 - **Topic 分享：每周六 晚上 20:30**
-- **学习模式**
+
+### 3.2  **学习模式**
 
 1. 发起人 先 确定好 **[Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC) **和 预分享的时间；
 2. TopicShare组织者 会提前两周 做一次宣传，帮 发起人 找 参与者，然后建群；
@@ -38,11 +43,11 @@ TopicShare 想做的事：
 4. 发起人 觉得 准备 OK 之后，由 TopicShare组织者 帮忙定一个时间 在学习群内分享 腾讯会议 会议 ID；
 5. Topic 分享开始时，TopicShare组织者 会 组织 发起人 分享，并在 学习群内，通知学员参与旁听；
 
-- 学习口号：以区块链模式推广学习
+### 3.3 **学习口号：以区块链模式推广学习**
 
 ![](img/微信图片_20210805193232.jpg)
 
-- **目前已沉淀的 开源方案**
+### 3.4 **目前已沉淀的 开源方案**
 
 1. [nlp_paper_study](https://github.com/km1994/nlp_paper_study) 
 
@@ -69,7 +74,7 @@ TopicShare 想做的事：
 因为目前正在 找工作需要刷题，为了方便后期学习，我将自己刷过的 题目以及对应的解法记录 于该项目中，方便后期学习，也方便大家学习。
 
 
-## 三、如何旁听 Topic 分享？如何加入我们？
+## 四、如何旁听 Topic 分享？如何加入我们？
 
 - **如何旁听 Topic 分享？**
 
@@ -83,20 +88,17 @@ TopicShare 想做的事：
 在 ** [Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC) ** 上面 填写 想分享的 Topic，然后 添加 TopicShare 组织者 微信号 blqkm601，注明参与分享即可。
 
 
-## 四、 TopicShare 分享顺序
+## 五、 TopicShare 分享顺序
 
 每个人选择自己感兴趣的 Topic，确定每一个 Topic 的分享时间，每一个组织成员需要记住分享时间，避免忘记分享；（**PS：如果觉得自己因为工作或者其他原因没时间，那么我觉得没必要参与进来，因为这种方式对于你来说进步并不大，而且还会浪费过多的时间和精力**）
 
-## 五、TopicShare 管理机制
+## 六、TopicShare 管理机制
 
 为方便审核组的管理，我们将成立审核组，审核组工作：
 
 1. 负责 新成员 的加入 考核；
 2. 负责 TopicShare 学习群 的 通知 和 管理；
 3. 负责 TopicShare 学习群 的优化工作；
-
-
-
 
 ## 七、TopicShare 构思
 
@@ -270,3 +272,9 @@ Classification](https://github.com/km1994/TopicShareShare/tree/master/Topic2/NLP
 ## 参考
 
 1. [Topic 发起表](https://shimo.im/sheets/y98CHkv6KHvkwrQ3/MODOC)
+2. [nlp_paper_study](https://github.com/km1994/nlp_paper_study) 
+3. [NLP 百面百搭](https://github.com/km1994/NLP-Interview-Notes) 
+4. [知识图谱构建 DeepKg](https://github.com/powerycy/DeepKg) 
+5. [RS_paper_study](https://github.com/km1994/RS_paper_study) 
+6. [NLP 项目 的 tensorflow 实现](https://github.com/km1994/bert_to_nlp_tf) 
+7. [Leetcode 刷题手册](https://github.com/km1994/leetcode) 
