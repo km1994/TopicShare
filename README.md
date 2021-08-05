@@ -40,7 +40,7 @@ TopicShare 想做的事：
 
 - 学习口号：以区块链模式推广学习
 
-![](img/微信图片_20210803095627.jpg)
+![](img/微信图片_20210805193232.jpg)
 
 - **目前已沉淀的 开源方案**
 
@@ -63,6 +63,11 @@ TopicShare 想做的事：
 5. [NLP 项目 的 tensorflow 实现](https://github.com/km1994/bert_to_nlp_tf) 
 
 该项目主要 使用 tensorflow 框架 复现 NLP 基础任务上的应用。
+
+6. [Leetcode 刷题手册](https://github.com/km1994/leetcode) 
+
+因为目前正在 找工作需要刷题，为了方便后期学习，我将自己刷过的 题目以及对应的解法记录 于该项目中，方便后期学习，也方便大家学习。
+
 
 ## 三、如何旁听 Topic 分享？如何加入我们？
 
