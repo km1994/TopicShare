@@ -116,6 +116,12 @@ TopicShare 想做的事：
 
 ## 九、TopicShare 分享 Topic 管理
 
+### Topic 8
+
+1. [图论（图挖掘）主题：PageRank算法公式手推并代码实现](Topic8/PageRank算法分析_V0.1.pptx) 
+2. [批量归一化操作的目的和实现（The motivations and operations of Batch Normalization ）分享](Topic8/BatchNormalization.pdf)
+
+
 ### Topic 7
 
 #### Topic 7 >> 自然语言处理
