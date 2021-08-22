@@ -118,8 +118,21 @@ TopicShare 想做的事：
 
 ### Topic 8
 
-1. [图论（图挖掘）主题：PageRank算法公式手推并代码实现](Topic8/PageRank算法分析_V0.1.pptx) 
-2. [批量归一化操作的目的和实现（The motivations and operations of Batch Normalization ）分享](Topic8/BatchNormalization.pdf)
+#### 基础算法专题
+
+1. [逻辑回归(Logistic Regression)](https://blog.csdn.net/wangrongrongwq/article/details/119514134)
+2. [图论（图挖掘）主题：PageRank算法公式手推并代码实现](Topic8/PageRank算法分析_V0.1.pptx) 
+3. [批量归一化操作的目的和实现（The motivations and operations of Batch Normalization ）分享](Topic8/BatchNormalization.pdf)
+
+#### 知识图谱专题
+
+1. [知识图谱基础介绍](Topic8/KG/知识图谱基础介绍.pdf)
+2. [知识图谱_图数据库简介](Topic8/KG/2021-08分享_Pasca_知识图谱_图数据库简介.pdf)
+3. [知识图谱与用户画像](Topic8/KG/知识图谱与用户画像.pdf)
+
+#### 强化学习专题专题
+
+1. [浅谈强化学习](RL/RL_Intro.pdf)
 
 
 ### Topic 7
