@@ -140,12 +140,15 @@ TopicShare 想做的事：
 1. [逻辑回归(Logistic Regression)](https://blog.csdn.net/wangrongrongwq/article/details/119514134)
 2. [图论（图挖掘）主题：PageRank算法公式手推并代码实现](Topic8/PageRank算法分析_V0.1.pptx) 
 3. [批量归一化操作的目的和实现（The motivations and operations of Batch Normalization ）分享](Topic8/BatchNormalization.pdf)
+4. [PageRank算法分析_V0.1](Topic8/PageRank算法分析_V0.1.pdf)
 
 #### 知识图谱专题
 
 1. [知识图谱基础介绍](Topic8/KG/知识图谱基础介绍.pdf)
 2. [知识图谱_图数据库简介](Topic8/KG/2021-08分享_Pasca_知识图谱_图数据库简介.pdf)
 3. [知识图谱与用户画像](Topic8/KG/知识图谱与用户画像.pdf)
+4. [命名实体识别基础、标注方法、 方法、工具、挑战 介绍](Topic8/KG/命名实体识别.pdf)
+5. [CRF条件随机场](Topic8/KG/CRF条件随机场.pdf)
 
 #### 强化学习专题专题
 
