@@ -135,6 +135,11 @@ TopicShare 想做的事：
 
 ### Topic 8
 
+#### query 理解 
+
+1. [对话和搜索中的query理解概述](QA/对话和搜索中的query理解概述.pdf) [视频链接](https://pan.baidu.com/s/1A_GtJTI3Sk7m0UotBvXy3Q) 提取码: tn9k 
+2. [浅谈FAQ](QA/FAQ.pdf)
+
 #### 基础算法专题
 
 1. [逻辑回归(Logistic Regression)](https://blog.csdn.net/wangrongrongwq/article/details/119514134)
