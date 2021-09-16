@@ -139,6 +139,10 @@ TopicShare 想做的事：
 
 1. [对话和搜索中的query理解概述](QA/对话和搜索中的query理解概述.pdf) [视频链接](https://pan.baidu.com/s/1A_GtJTI3Sk7m0UotBvXy3Q) 提取码: tn9k 
 2. [浅谈FAQ](QA/FAQ.pdf)
+3. [从文本分类模型到分类系统](https://github.com/km1994/TopicShare/tree/main/Topic8/QA/从文本分类模型到分类系统.pdf) [视频链接](https://pan.baidu.com/s/10wS-Drjy3YxG8uUZ6bOEqA) 提取码: y4k3 
+4. [对话和搜索中的query理解概述](https://github.com/km1994/TopicShare/tree/main/Topic8/QA/对话和搜索中的query理解概述.pdf)[视频链接](https://pan.baidu.com/s/10wS-Drjy3YxG8uUZ6bOEqA) 提取码: y4k3 
+5. [自然语言预训练模型概述](https://github.com/km1994/TopicShare/tree/main/Topic8/QA/自然语言预训练模型概述.pdf)[视频链接](https://pan.baidu.com/s/10wS-Drjy3YxG8uUZ6bOEqA) 提取码: y4k3 
+6. [语义相似度.xmind](https://github.com/km1994/TopicShare/tree/main/Topic8/QA/语义相似度.xmind)[视频链接](https://pan.baidu.com/s/10wS-Drjy3YxG8uUZ6bOEqA) 提取码: y4k3 
 
 #### 基础算法专题
 
